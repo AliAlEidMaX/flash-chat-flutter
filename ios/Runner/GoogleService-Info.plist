@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>382996207569-04utj5puo2i300skbu43jug3ef30266d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.382996207569-04utj5puo2i300skbu43jug3ef30266d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuTAdKeaIb7kp3NplI5nOilx4Tb09T344</string>
+	<key>GCM_SENDER_ID</key>
+	<string>382996207569</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alialeid.learn</string>
+	<key>PROJECT_ID</key>
+	<string>tallycounter-d8c2d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tallycounter-d8c2d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:382996207569:ios:7698678a505d9f6f8ff2f0</string>
+	<key>DATABASE_URL</key>
+	<string>https://tallycounter-d8c2d.firebaseio.com</string>
+</dict>
+</plist>
